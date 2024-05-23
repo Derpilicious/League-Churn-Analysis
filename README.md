@@ -1,0 +1,1 @@
+The project focuses on understanding early player behavior and identifying factors that influence player retention. Through exploratory data analysis and predictive modeling, I achieved a test set accuracy of 78%. The findings provide insights into player engagement and potential interventions to reduce churn.
